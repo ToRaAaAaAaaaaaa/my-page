@@ -14,8 +14,8 @@
 - [Particles.js](https://vincentgarreau.com/particles.js/) - パーティクルエフェクト
 ## 制作背景
 
-骨組みはYouTubeのチュートリアルを参考にしながら作成。その後、独自のコンテンツやデザインを追加・改修しています。
-[参考動画はこちら](https://www.youtube.com/watch?v=Hbxulm8iXSA&t=8374s&pp=ygUWd2Vi44K144Kk44OIIOS4ree0muiAhQ%3D%3D)
+- 骨組みはYouTubeのチュートリアルを参考にしながら作成。その後、独自のコンテンツやデザインを追加・改修しています。
+- [参考動画はこちら:【HTML/CSS】実践！Webサイト作成から公開までの過程を解説！](https://www.youtube.com/watch?v=Hbxulm8iXSA&t=8374s&pp=ygUWd2Vi44K144Kk44OIIOS4ree0muiAhQ%3D%3D)
 ## ファイル構成
 
 ```
