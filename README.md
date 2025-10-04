@@ -12,7 +12,7 @@
 - CSS3
 - JavaScript
 - [Particles.js](https://vincentgarreau.com/particles.js/) - パーティクルエフェクト
-
+- [参考動画はこちら](https://www.youtube.com/watch?v=Hbxulm8iXSA&t=8374s&pp=ygUWd2Vi44K144Kk44OIIOS4ree0muiAhQ%3D%3D)
 ## 制作背景
 
 骨組みはYouTubeのチュートリアルを参考にしながら作成。その後、独自のコンテンツやデザインを追加・改修しています。
@@ -51,3 +51,5 @@ cd my-page
 
 # Netlifyで作成したファイルがこちら
 https://tranquil-alfajores-b0b6c8.netlify.app/
+
+## 参考資料
