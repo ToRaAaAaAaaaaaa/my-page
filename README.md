@@ -51,5 +51,3 @@ cd my-page
 
 # Netlifyで作成したファイルがこちら
 https://tranquil-alfajores-b0b6c8.netlify.app/
-
-## 参考資料
