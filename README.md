@@ -48,3 +48,6 @@ git clone https://github.com/ToRaAaAaAaaaaaa/my-page.git
 cd my-page
 
 # index.htmlをブラウザで開く
+
+# Netlifyで作成したファイルがこちら
+https://tranquil-alfajores-b0b6c8.netlify.app/
