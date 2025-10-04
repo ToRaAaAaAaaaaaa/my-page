@@ -12,10 +12,10 @@
 - CSS3
 - JavaScript
 - [Particles.js](https://vincentgarreau.com/particles.js/) - パーティクルエフェクト
-- [参考動画はこちら](https://www.youtube.com/watch?v=Hbxulm8iXSA&t=8374s&pp=ygUWd2Vi44K144Kk44OIIOS4ree0muiAhQ%3D%3D)
 ## 制作背景
 
 骨組みはYouTubeのチュートリアルを参考にしながら作成。その後、独自のコンテンツやデザインを追加・改修しています。
+[参考動画はこちら](https://www.youtube.com/watch?v=Hbxulm8iXSA&t=8374s&pp=ygUWd2Vi44K144Kk44OIIOS4ree0muiAhQ%3D%3D)
 ## ファイル構成
 
 ```
